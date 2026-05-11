@@ -5,14 +5,11 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Arthur Moraes Braga Araujo
+- Matricula: 1025300
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![imagem](public/images/Detalhes-produto.png)
+![console](public/images/Console.png)
 
